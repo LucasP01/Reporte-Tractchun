@@ -1,4 +1,5 @@
-# Reporte para compañía manufacturera -- ![Tractchun+logo](https://github.com/user-attachments/assets/e8af7cc0-ee37-487c-b9b3-212233692f14) AJUSTAR TAMAÑO
+<h1 align="center">Reporte para Tractchun</h1> 
+<div align="center"> <img src="https://github.com/user-attachments/assets/e8af7cc0-ee37-487c-b9b3-212233692f14" width="300px">
 
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/d276dae2-35d0-457c-842f-cd06d30d393b/4e7455e767a0280340b2?experience=power-bi
@@ -11,7 +12,6 @@ Este Dashboard fue diseñado para ayudar a la empresa Tractchun a monitorear y t
 El principal inconveniente que enfrentaba la empresa era que la aplicación de tickets no ofrecía opciones de visualización adecuadas, lo que dificultaba la toma de decisiones al no proporcionar información relevante. Además, su interfaz poco intuitiva complicaba aún más el proceso.
 
 Para mejorar esta situación, se implementó un ranking de los agentes de IT según su desempeño en la resolución de tickets. Gracias a esta herramienta, la empresa pudo establecer un sistema de incentivos y premios, motivando a los empleados a resolver los tickets en el menor tiempo posible.
-
 
 ### Pasos seguidos
 
