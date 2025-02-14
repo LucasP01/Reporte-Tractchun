@@ -1,4 +1,4 @@
-# Reporte para Tractchun  
+# Reporte para Tractchun  📊
 
 <div align="center">  
   <a href="https://app.powerbi.com/groups/me/reports/d276dae2-35d0-457c-842f-cd06d30d393b/4e7455e767a0280340b2?experience=power-bi" target="_blank">
@@ -9,7 +9,7 @@
   <sub><i style="color:gray;">🔗 Haz clic en la imagen para abrir el reporte</i></sub>
 </div>
 
-## Situación Problematica
+## Situación Problematica 🚀
 
 
 Este Dashboard fue diseñado para ayudar a la empresa Tractchun a monitorear y tomar decisiones sobre los agentes de IT que brindan soporte a los tickets relacionados con las tecnologías de oficina.
@@ -18,7 +18,14 @@ El principal inconveniente que enfrentaba la empresa era que la aplicación que 
 
 Para mejorar esta situación, se implementó un ranking de los agentes de IT según su desempeño en la resolución de tickets. Gracias a esta herramienta, la empresa pudo establecer un sistema de incentivos y premios, motivando a los empleados a resolver los tickets en el menor tiempo posible.
 
-### Pasos seguidos
+## 📊 Fuentes de Datos  
+El dashboard se construyó utilizando datos ficticios proporcionados por Javier Gomez en su curso de Power BI en Udemy.  
+
+- **Origen de los datos:** El origen son los siguientes archivos en formato .xlsx: Agentes, FotosAgentes, Lista+Empleados, Puestos y Tickets (desde 2016 a 2020).
+- **Frecuencia de actualización:** No hay mas actualizaciones del reporte.
+
+
+## Paso a Paso 🚶🏻
 
 - Paso 1: Se cargaron los datos en Power BI Desktop; el conjunto de datos es un archivo .csv.
 
